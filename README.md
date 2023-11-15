@@ -5,4 +5,4 @@ For this assignment, I created a mock empoylee portfolio website.  I used some o
 
 ## Mock-up
 
-![image](/homework/employee-portfolio/assets/images/preview.png)
+![url](/homework/employee-portfolio/assets/images/preview.png)
